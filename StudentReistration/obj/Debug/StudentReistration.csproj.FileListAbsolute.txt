@@ -1,0 +1,28 @@
+C:\Users\CRP\Source\Repos\Practical 6\StudentReistration\bin\Debug\StudentReistration.exe.config
+C:\Users\CRP\Source\Repos\Practical 6\StudentReistration\bin\Debug\StudentReistration.exe
+C:\Users\CRP\Source\Repos\Practical 6\StudentReistration\bin\Debug\StudentReistration.pdb
+C:\Users\CRP\Source\Repos\Practical 6\StudentReistration\obj\Debug\StudentReistration.csprojAssemblyReference.cache
+C:\Users\CRP\Source\Repos\Practical 6\StudentReistration\obj\Debug\StudentReistration.Properties.Resources.resources
+C:\Users\CRP\Source\Repos\Practical 6\StudentReistration\obj\Debug\StudentReistration.csproj.GenerateResource.cache
+C:\Users\CRP\Source\Repos\Practical 6\StudentReistration\obj\Debug\StudentReistration.csproj.CoreCompileInputs.cache
+C:\Users\CRP\Source\Repos\Practical 6\StudentReistration\obj\Debug\StudentReistration.exe
+C:\Users\CRP\Source\Repos\Practical 6\StudentReistration\obj\Debug\StudentReistration.pdb
+C:\Users\CRP\Source\Repos\Practical 6\StudentReistration\obj\Debug\StudentReistration.Form1.resources
+H:\DOT NET\StudentRegistration-master\StudentRegistration-master\StudentReistration\bin\Debug\StudentReistration.exe.config
+H:\DOT NET\StudentRegistration-master\StudentRegistration-master\StudentReistration\obj\Debug\StudentReistration.exe
+H:\DOT NET\StudentRegistration-master\StudentRegistration-master\StudentReistration\obj\Debug\StudentReistration.pdb
+H:\DOT NET\StudentRegistration-master\StudentRegistration-master\StudentReistration\bin\Debug\StudentReistration.exe
+H:\DOT NET\StudentRegistration-master\StudentRegistration-master\StudentReistration\bin\Debug\StudentReistration.pdb
+H:\DOT NET\StudentRegistration-master\StudentRegistration-master\StudentReistration\obj\Debug\StudentReistration.csprojResolveAssemblyReference.cache
+H:\DOT NET\StudentRegistration-master\StudentRegistration-master\StudentReistration\obj\Debug\StudentReistration.Form1.resources
+H:\DOT NET\StudentRegistration-master\StudentRegistration-master\StudentReistration\obj\Debug\StudentReistration.Properties.Resources.resources
+H:\DOT NET\StudentRegistration-master\StudentRegistration-master\StudentReistration\obj\Debug\StudentReistration.csproj.GenerateResource.Cache
+D:\study\DotNetMaterial-master\FinalDotnet-master\PRACTICAL6\StudentReistration\bin\Debug\StudentReistration.exe.config
+D:\study\DotNetMaterial-master\FinalDotnet-master\PRACTICAL6\StudentReistration\obj\Debug\StudentReistration.exe
+D:\study\DotNetMaterial-master\FinalDotnet-master\PRACTICAL6\StudentReistration\obj\Debug\StudentReistration.pdb
+D:\study\DotNetMaterial-master\FinalDotnet-master\PRACTICAL6\StudentReistration\bin\Debug\StudentReistration.exe
+D:\study\DotNetMaterial-master\FinalDotnet-master\PRACTICAL6\StudentReistration\bin\Debug\StudentReistration.pdb
+D:\study\DotNetMaterial-master\FinalDotnet-master\PRACTICAL6\StudentReistration\obj\Debug\StudentReistration.csprojResolveAssemblyReference.cache
+D:\study\DotNetMaterial-master\FinalDotnet-master\PRACTICAL6\StudentReistration\obj\Debug\StudentReistration.Form1.resources
+D:\study\DotNetMaterial-master\FinalDotnet-master\PRACTICAL6\StudentReistration\obj\Debug\StudentReistration.Properties.Resources.resources
+D:\study\DotNetMaterial-master\FinalDotnet-master\PRACTICAL6\StudentReistration\obj\Debug\StudentReistration.csproj.GenerateResource.Cache
